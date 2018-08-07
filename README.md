@@ -1,0 +1,1 @@
+# elesticsearch-ldap-xpack
